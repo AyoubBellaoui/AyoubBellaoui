@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AyoubBellaoui
 - 👀 I’m interested in Sotware and Web development 
 - 🌱 I’m currently learning PHP and Javascript
-- 💞️ I’m looking to collaborate on Big backend projects
-- 📫 How to reach me Contact me on Ayoubbellaoui37@gmail.com
+- 💞️ I’m looking to collaborate on Big projects
+- 📫 How to reach me Contact me on Ayoubbellaoui@yahoo.com
 
 <!---
 AyoubBellaoui/AyoubBellaoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
