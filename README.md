@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyoubBellaoui
-- 👀 I’m interested in Sotware and Web development 
-- 🌱 I’m currently learning PHP and Javascript
+- 👀 I’m interested in Software and Web development 
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Big projects
 - 📫 How to reach me Contact me on Ayoubbellaoui@yahoo.com
 
