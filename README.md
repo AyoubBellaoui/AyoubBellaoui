@@ -1,4 +1,4 @@
-<p align="left">- 👋 Hi, I’m @AyoubBellaoui<br>- 👀 I’m interested in Software and Web development <br>- 🌱 I’m currently learning Javascript and NodeJS<br>- 💞️ I’m looking to collaborate on Big projects<br>- 📫 How to reach me Contact me on Ayoubbellaoui@yahoo.com<br>- ✨ My new brand Portfolio https://ayoubbellaoui.netlify.app/<br>- ✨ you can ask for my service on khamsat : https://khamsat.com/user/ayoub_bellaoui<br>- 💞️ I'll be happy to be my client or friend whatever!</p>
+<p align="left">- 👋 Hi, I’m @AyoubBellaoui<br>- 👀 I’m interested in Software and Web development <br>- 🌱 I’m currently learning Javascript and NodeJS<br>- 💞️ I’m looking to collaborate on Big projects<br>- 📫 How to reach me Contact me on Ayoubbellaoui@yahoo.com<br>- ✨ My new Portfolio https://ayoubbellaoui.netlify.app/<br>- ✨ you can ask for my service on khamsat : https://khamsat.com/user/ayoub_bellaoui<br>- 💞️ I'll be happy to be my client or friend whatever!</p>
 
 ###
 
