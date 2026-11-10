@@ -1,4 +1,4 @@
-<p align="left">- 👋 Hi, I’m @AyoubBellaoui<br>- 👀 I’m interested in Software and Web development <br>- 🌱 I’m currently learning Javascript/React and Laravel/REST APIs<br>- 💞️ I’m looking to collaborate on Big projects<br>- 📫 How to reach me Contact me on Ayoubbellaoui@yahoo.com<br>- ✨ My Portfolio https://ayoubbellaoui-portfolio.vercel.app/ /<br>- 💞️ I'll be happy to be my client or friend whatever!</p>
+<p align="left">- 👋 Hi, I’m @AyoubBellaoui<br>- 👀 I’m interested in Software and Web development <br>- 🌱 I’m currently learning Javascript/React and Laravel/REST APIs<br>- 💞️ I’m looking to collaborate on Big projects<br>- 📫 How to reach me Contact me on Ayoubbellaoui@yahoo.com<br>- ✨ My Portfolio https://ayoubbellaoui.vercel.app/ /<br>- 💞️ I'll be happy to be my client or friend whatever!</p>
 
 ###
 
